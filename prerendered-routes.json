@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/": {},
+    "/news": {},
+    "/news/blog/article-4": {},
+    "/news/story/article-2": {},
+    "/news/story/lorem-ipsum-dolor": {},
+    "/news/technology/article-1": {},
+    "/news/technology/article-3": {},
+    "/what-we-do": {},
+    "/who-we-are": {}
+  }
+}
