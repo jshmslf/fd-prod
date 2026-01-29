@@ -1,6 +1,7 @@
 {
   "routes": {
     "/": {},
+    "/contact-us": {},
     "/news": {},
     "/news/blog/article-4": {},
     "/news/story/article-2": {},
